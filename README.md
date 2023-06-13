@@ -35,3 +35,4 @@ The Logo Generator application was developed with the help of the following reso
 
 ## Usage Video link
 
+- [youtube-link](https://youtu.be/D7g0m14uQKs)
